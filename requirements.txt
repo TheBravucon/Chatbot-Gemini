@@ -1,0 +1,3 @@
+llm
+google-generativeai
+python-dotenv
